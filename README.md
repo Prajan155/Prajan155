@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajan155&label=Profile%20views&color=0e75b6&style=flat" alt="prajan155" /> </p>
 
-- 🔭 I’m currently working on **Demographic Data Analyzer**
+- 🔭 I’m currently working on :  **Demographic Data Analyzer**
 
-- 🌱 I’m currently learning **Django, Firebase, Data Science**
+- 🌱 I’m currently learning :  **Django, Firebase, Data Science**
 
-- 👯 I’m looking to collaborate on **AWS**
+- 👯 I’m looking to collaborate on :  **AWS**
 
-- 🤝 I’m looking for help with **TensorFlow**
+- 🤝 I’m looking for help with :  **TensorFlow**
 
-- 💬 Ask me about **Python, R, Tableau, PowerBI, C, C++, C#, SQL, Oracle, HTML, JAVA, DBMS,**
+- 💬 Ask me about : **Python, R, Tableau, PowerBI, C, C++, C#, SQL, Oracle, HTML, JAVA, DBMS,**
 
-- 📫 How to reach me **darkmatrix747@gmail.com**
+- 📫 How to reach me :  **darkmatrix747@gmail.com**
 
-- ⚡ Fun fact **I love Video games mainly.. FC Mobile**
+- ⚡ Fun fact :  **I love Video games mainly.. FC Mobile**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

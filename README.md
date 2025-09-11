@@ -15,7 +15,7 @@
 
 - 📫 How to reach me :  **darkmatrix747@gmail.com**
 
-- ⚡ Fun fact :  **I love Video games mainly.. FC Mobile**
+- ⚡ Fun fact :  **I, myself am a gymrat as well as a gamer in my leisure time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

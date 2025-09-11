@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajan155&label=Profile%20views&color=0e75b6&style=flat" alt="prajan155" /> </p>
 
-- 🔭 I’m currently working on :  **Demographic Data Analyzer**
+- 🔭 I’m currently working on :  **Sea Level Predictor**
 
 - 🌱 I’m currently learning :  **Django, Firebase, Data Science**
 
